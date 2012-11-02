@@ -1,8 +1,10 @@
 # SuddenDeath
 
+`
 ＿人人人人人人＿  
 ＞　突然の死　＜  
 ￣ＹＹＹＹＹＹ￣  
+`
 
 ## Installation
 
@@ -20,6 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
+`
 "突然の死".sudden_death # =>
 
 ＿人人人人人人＿  
@@ -33,6 +36,7 @@ Or install it yourself as:
 ＞　突然の死                　＜  
 ＞　突然の死突然の死突然の死　＜  
 ￣ＹＹＹＹＹＹＹＹＹＹＹＹＹＹ￣  
+`
 
 ## Contributing
 
