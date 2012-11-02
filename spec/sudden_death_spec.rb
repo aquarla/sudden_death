@@ -6,7 +6,7 @@ describe "sudden_death" do
     "突然の死".sudden_death.should == <<STR
 ＿人人人人人人＿
 ＞　突然の死　＜
-￣^Y^Y^Y^Y^￣
+￣ＹＹＹＹＹＹ￣
 STR
   end
 end
